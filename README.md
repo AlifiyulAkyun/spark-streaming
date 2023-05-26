@@ -8,6 +8,16 @@ Real-Time Analytics with Spark Streaming and Structured Streaming
 
 <hr/>
 
+# Tugas Praktikum
+
+## Memulai Spark
+![Screenshot](img/memulai_spark.png)
+
+## Masuk Folder
+![Screenshot](img/masuk_folder.png)
+
+## Data
+![Screenshot](img/network_wordcount.png)
 
 
 
