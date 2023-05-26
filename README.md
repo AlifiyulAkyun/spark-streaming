@@ -22,6 +22,9 @@ Real-Time Analytics with Spark Streaming and Structured Streaming
 ## Network WordCount 5 Detik
 ![Screenshot](img/network_wordcount_ubahwaktu.png)
 
+## Stateful Network Wordcount
+![Screenshot](img/stateful_network_wordcount.png)
+
 
 
 **3. TUGAS PRAKTIKUM**
