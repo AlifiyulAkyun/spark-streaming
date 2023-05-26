@@ -16,8 +16,11 @@ Real-Time Analytics with Spark Streaming and Structured Streaming
 ## Masuk Folder
 ![Screenshot](img/masuk_folder.png)
 
-## Data
+## Network WordCount
 ![Screenshot](img/network_wordcount.png)
+
+## Network WordCount 5 Detik
+![Screenshot](img/network_wordcount_ubahwaktu.png)
 
 
 
