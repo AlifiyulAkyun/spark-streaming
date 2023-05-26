@@ -9,67 +9,6 @@ Real-Time Analytics with Spark Streaming and Structured Streaming
 <hr/>
 
 
-**0. Persiapan**
-<table border="0">
-<tr>
-    <th colspan="2" align="center"><b>Menjalankan Spark Daemons</b></th>
- </tr>
- <tr>
-    <td><b style="font-size:30px">Code</b></td>
-    <td><b style="font-size:30px">Output</b></td>
- </tr>
- <tr>
-   
-    <td><img src="https://github.com/AlifiyulAkyun/spark-streaming/blob/main/img/memulai_spark.png"></td>
- </tr>
-</table><br>
-**Masuk ke folder **
-<table border="0">
-<tr>
-    <th colspan="2" align="center"><b>Menjalankan Spark Daemons</b></th>
- </tr>
- <tr>
-    <td><b style="font-size:30px">Code</b></td>
-    <td><b style="font-size:30px">Output</b></td>
- </tr>
- <tr>
-   
-    <td><img src="https://github.com/AlifiyulAkyun/spark-streaming/blob/main/img/masuk_folder.png"></td>
- </tr>
-</table><br>
-
-**1. Praktik Dasar Spark Streaming**
-<table border="0">
- <tr>
-    <th colspan="2" align="center"><b>Metode 1 : Mode Stateless Stream Processing</b></th>
- </tr>
- <tr>
-    <td><b style="font-size:30px">Code</b></td>
-    <td><b style="font-size:30px">Output</b></td>
- </tr>
- <tr>
-  <td>https://github.com/AlifiyulAkyun/spark-streaming/blob/6a75dc265d82e180fb10b2b5028b33914c6e40b5/img/network_wordcount.png#L28-L49</td>
-    <td><img src="https://github.com/AlifiyulAkyun/spark-streaming/blob/main/img/network_wordcount.png"></td>
-
- </tr>
-</table><br>
-
-<table border="0">
- <tr>
-    <th colspan="2" align="center"><b>Metode 1 : Mode Stateless Stream Processing >> Mengganti Waktu Menjadi 5 Detik</b></th>
- </tr>
- <tr>
-    <td><b style="font-size:30px">Code</b></td>
-    <td><b style="font-size:30px">Output</b></td>
- </tr>
- <tr>
-    <td>https://github.com/AlifiyulAkyun/spark-streaming/blob/6a75dc265d82e180fb10b2b5028b33914c6e40b5/img/network_wordcount_ubahwaktu.png#L28-L49</td>
-    <td><img src="https://github.com/AlifiyulAkyun/spark-streaming/blob/main/img/network_wordcount_ubahwaktu.png"></td>
- </tr>
-</table><br>
-
-
-
 
 
 **3. TUGAS PRAKTIKUM**
