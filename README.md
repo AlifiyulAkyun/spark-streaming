@@ -24,7 +24,7 @@ Real-Time Analytics with Spark Streaming and Structured Streaming
 
 ## Melakukan Transformasi di Spark Streaming
 ![Screenshot](image/word_sentiment(1).png)
-![Screenshot](image/word_sentiment (2).png)
+![Screenshot](image/word_sentiment(2).png)
 
 
 
