@@ -41,6 +41,7 @@ a) Stateless stream processing berarti setiap batch data yang masuk diproses sec
 b) Setiap batch data dianggap sebagai entitas yang terisolasi dan tidak ada hubungan dengan batch data sebelumnya.
      
 c) Stateless stream processing lebih sederhana dan memiliki overhead yang lebih rendah, karena tidak ada kebutuhan untuk menyimpan dan mempertahankan status (state) antara batch data.
+     
      2. Stateful Stream Processing:
 
 a) Stateful stream processing mencakup pemeliharaan status (state) atau informasi kontekstual dari batch sebelumnya saat memproses batch data saat ini.
