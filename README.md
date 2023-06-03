@@ -10,20 +10,21 @@ Real-Time Analytics with Spark Streaming and Structured Streaming
 
 # Tugas Praktikum
 
-## Memulai Spark
-![Screenshot](img/memulai_spark.png)
-
-## Masuk Folder
-![Screenshot](img/masuk_folder.png)
-
 ## Network WordCount
-![Screenshot](img/network_wordcount.png)
+![Screenshot](image/network_wordcount(1).png)
+![Screenshot](image/network_wordcount(2).png)
 
-## Network WordCount 5 Detik
-![Screenshot](img/network_wordcount_ubahwaktu.png)
+## Network WordCount Interval Waktu 5 Detik
+![Screenshot](image/Interval_Waktu5detik.png)
 
 ## Stateful Network Wordcount
-![Screenshot](img/stateful_network_wordcount.png)
+![Screenshot](image/stateful_network_wordcount(1).png)
+![Screenshot](image/stateful_network_wordcount(2).png)
+
+
+## Melakukan Transformasi di Spark Streaming
+![Screenshot](image/word_sentiment(1).png)
+![Screenshot](image/word_sentiment (2).png)
 
 
 
