@@ -34,7 +34,17 @@ Real-Time Analytics with Spark Streaming and Structured Streaming
     <th colspan="2" align="center"><b>Jelaskan perbedaan spark streaming dengan metode stateless dan stateful stream processing!</b></th>
  </tr>
  <tr>
-    <td>Perbedaannya adalah jika pada stateful, state dari peristiwa sebelumnya tetap ada dan memengaruhi peristiwa selanjutnya. sedangkan dalam stateless, state tidak persisten.</td>
+    <td>1. Stateless Stream Processing:
+
+a) Stateless stream processing berarti setiap batch data yang masuk diproses secara independen dan tidak ada informasi yang diingat dari batch sebelumnya.
+b) Setiap batch data dianggap sebagai entitas yang terisolasi dan tidak ada hubungan dengan batch data sebelumnya.
+c) Stateless stream processing lebih sederhana dan memiliki overhead yang lebih rendah, karena tidak ada kebutuhan untuk menyimpan dan mempertahankan status (state) antara batch data.
+     2. Stateful Stream Processing:
+
+a) Stateful stream processing mencakup pemeliharaan status (state) atau informasi kontekstual dari batch sebelumnya saat memproses batch data saat ini.
+b) Pada setiap batch data, status sebelumnya diakses dan diperbarui, dan hasilnya dapat dipengaruhi oleh status tersebut.
+c) Stateful stream processing memungkinkan analisis data yang lebih kaya dengan pemahaman konteks yang lebih dalam dan kemampuan untuk melacak tren atau pola sepanjang waktu.
+  </td>
  </tr>
  </table>
  <table border="0">
