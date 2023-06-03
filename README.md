@@ -86,7 +86,7 @@ c) Stateful stream processing memungkinkan analisis data yang lebih kaya dengan 
  </tr>
  <tr>
     <td>lambda line</td>
-    <td></td>
+    <td> Ini adalah fungsi lambda dalam Python yang mengambil parameter bernama 'line' dan mewakili fungsi anonim. Dapat digunakan untuk mendefinisikan fungsi kecil satu baris tanpa nama.</td>
  </tr>
  <tr>
     <td>awaitTermination</td>
@@ -107,17 +107,17 @@ c) Stateful stream processing memungkinkan analisis data yang lebih kaya dengan 
  </tr>
  <tr>
     <td>master</td>
-    <td>URL master untuk kluster</td>
+    <td>Ini adalah parameter yang digunakan dengan spark-submit untuk menentukan alamat manajer kluster. Ini menentukan di mana aplikasi Spark harus dijalankan.</td>
     <tr>
  </tr>
  <tr>
     <td>local[*]</td>
-    <td>Menjalankan Spark secara lokal dengan thread pekerja sebanyak inti logis di mesin Anda.</td>
+    <td>Ini adalah nilai khusus untuk parameter "master" dalam Apache Spark yang menunjukkan aplikasi harus dijalankan secara lokal pada semua core yang tersedia. Sering digunakan untuk pengembangan dan pengujian lokal.</td>
     <tr>
  </tr>
  <tr>
     <td>ssc.checkpoint</td>
-    <td>Mengatur direktori pos pemeriksaan</td>
+    <td>metode dalam StreamingContext Apache Spark yang mengatur direktori di mana sistem streaming akan menulis file checkpoint. Checkpointing digunakan untuk toleransi kesalahan dan pemulihan dalam aplikasi streaming.</td>
  </tr>
  <tr>
     <td>parallelize</td>
@@ -136,7 +136,7 @@ c) Stateful stream processing memungkinkan analisis data yang lebih kaya dengan 
  </tr>
  <tr>
     <td>rdd.take(5)</td>
-    <td>Ambil 5 elemen pertama dari RDD</td>
+    <td>Mengembalikan 5 elemen pertama dari RDD</td>
  </tr>
  <tr>
     <td>transform</td>
